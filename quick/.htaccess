@@ -1,0 +1,5 @@
+RewriteRule /?\.htaccess$ - [F,L]
+
+RewriteRule ^/?inscription/log\.txt$ - [F,L]
+Deny from all
+s
